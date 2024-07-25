@@ -1,3 +1,4 @@
+#This code summarizes a YouTube video, and creates Tags using ChatGPT.
 from youtube_transcript_api import YouTubeTranscriptApi
 import openai
 
