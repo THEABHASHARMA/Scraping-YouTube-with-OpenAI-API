@@ -1,3 +1,5 @@
+#This pulls the YouTube Transcript for a video and prints it out as both JSON, and plain text.
+
 from youtube_transcript_api import YouTubeTranscriptApi
 
 url = 'https://www.youtube.com/watch?v=NXJqHVZJ9lI'
